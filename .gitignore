@@ -1,0 +1,15 @@
+# Ignore .log files
+*.log
+
+# Ignore .session files
+*.session
+*.session-journal
+
+# Ignore .env file
+.env
+
+# Ignore .__pycache__
+__pycache__
+
+# Ignore inside downloads folder
+downloads/*
